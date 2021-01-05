@@ -5,7 +5,7 @@
  * Si $fecha_1 > $fecha_2, se devuelve un número mayor que cero.
  * Si $fecha_1 < $fecha_2, se devuelve un número menor que cero.
  * Si $fecha_1 = $fecha_2, se devuelve cero.
-
+ *
  * El número devuelto corresponde a la diferencia de días entre las dos fechas.
  * Ejemplo:
  * $fecha_1: 2020-12-15 11:30:00
